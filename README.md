@@ -1,1 +1,1 @@
-# dotcoin-smart-contract
+# dogemini-smart-contract
